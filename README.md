@@ -42,7 +42,7 @@
 
 
 
-<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25" style="opacity: 0.5;"> Continue </h2>
-<img src="https://wallpapers.com/images/hd/maintenance-site-under-construction-9h1avl5wlxdio5d0.jpg" style="opacity: 0.5;">
+<h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25" style="opacity: 0.2;"> Continue </h2>
+<img src="https://wallpapers.com/images/hd/maintenance-site-under-construction-9h1avl5wlxdio5d0.jpg" style="opacity: 0.2;">
 
 
