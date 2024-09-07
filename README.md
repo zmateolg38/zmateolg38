@@ -17,29 +17,27 @@
 - 📫 How to reach me: zmateolg38@gmail.com
 <br></br>
 
-<h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Stuff I Know</h2>                                                                                                                       
+<h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Stuff I Know</h2>                                                                                                                      
 
 <p>
 <h3><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> My Skills</h3>                                                                                                                       
-
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,py,&theme=light)](https://skillicons.dev)
 </p>
-<br>
-
 <p>
-<h3><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Desing Skills</h3>                                                                                                                       
-
+<h3><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Desing Skills</h3>                                                                                                                     
 [![Desing Skills](https://skillicons.dev/icons?i=html,css,ps,&theme=light)](https://skillicons.dev)
 </p>
 <p>
-<h3><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> BD Skills</h3>                                                                                                                       
-
+<h3><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> BD Skills</h3>                                                                                                       
+  
 [![BD Skills](https://skillicons.dev/icons?i=mysql,&theme=light)](https://skillicons.dev)
+  
 </p>
 
-<br>
+
 <p>
-<h3><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Mats Skills</h3>                                                                                                        
+<h3><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Mats Skills</h3>   
+  
 [![Mats Skills](https://skillicons.dev/icons?i=r,&theme=light)](https://skillicons.dev)
 </p>
 
