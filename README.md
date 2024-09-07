@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/564x/05/ac/f8/05acf8ee4a567a97cebefd7f5715ed44.jpg" style="width: 100%; height: auto;">
+<img src="https://i.pinimg.com/564x/05/ac/f8/05acf8ee4a567a97cebefd7f5715ed44.jpg" style="width: 80%; height: auto; filter: brightness(50%);">
 
 
 <h2><img src="https://media.giphy.com/media/2Wg89Ea84IMmkxMngo/giphy.gif" height="20"> My Socials</h2>
@@ -43,6 +43,6 @@
 
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25" style="opacity: 0.2;"> Continue </h2>
-<img src="https://wallpapers.com/images/hd/maintenance-site-under-construction-9h1avl5wlxdio5d0.jpg" style="opacity: 0.2;">
+<img src="https://wallpapers.com/images/hd/maintenance-site-under-construction-9h1avl5wlxdio5d0.jpg" style="opacity: 0.2; filter: brightness(
 
 
