@@ -20,13 +20,28 @@
 <h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Stuff I Know</h2>                                                                                                                       
 
 <p>
+
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,py,,figma&theme=light)](https://skillicons.dev)
 </p>
+<br>
 
 <p>
 
 [![Desing Skills](https://skillicons.dev/icons?i=html,css,ps,figma&theme=light)](https://skillicons.dev)
 </p>
+
+<p>
+
+[![BD Skills](https://skillicons.dev/icons?i=mysql,figma&theme=light)](https://skillicons.dev)
+</p>
+
+<br>
+<p>
+
+[![Mats Skills](https://skillicons.dev/icons?i=r,figma&theme=light)](https://skillicons.dev)
+</p>
+
+
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My Github Stats</h2>
 
