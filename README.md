@@ -22,27 +22,25 @@
 <p>
 <h3><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> My Skills</h3>                                                                                                                       
 
-[![My Skills](https://skillicons.dev/icons?i=java,cpp,py,,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,py,&theme=light)](https://skillicons.dev)
 </p>
 <br>
 
 <p>
 <h3><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Desing Skills</h3>                                                                                                                       
 
-[![Desing Skills](https://skillicons.dev/icons?i=html,css,ps,figma&theme=light)](https://skillicons.dev)
+[![Desing Skills](https://skillicons.dev/icons?i=html,css,ps,&theme=light)](https://skillicons.dev)
 </p>
-
 <p>
 <h3><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> BD Skills</h3>                                                                                                                       
 
-[![BD Skills](https://skillicons.dev/icons?i=mysql,figma&theme=light)](https://skillicons.dev)
+[![BD Skills](https://skillicons.dev/icons?i=mysql,&theme=light)](https://skillicons.dev)
 </p>
 
 <br>
 <p>
-<h3><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Mats Skills</h3>                                                                                                                       
-
-[![Mats Skills](https://skillicons.dev/icons?i=r,figma&theme=light)](https://skillicons.dev)
+<h3><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Mats Skills</h3>                                                                                                        
+[![Mats Skills](https://skillicons.dev/icons?i=r,&theme=light)](https://skillicons.dev)
 </p>
 
 
