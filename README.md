@@ -20,17 +20,12 @@
 <h2><img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" height="20"> Stuff I Know</h2>                                                                                                                       
 
 <p>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height="25"> 
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" height="25"> 
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c" height="25"> 
-<img src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"> 
-<img src="https://img.shields.io/badge/-RStudio-75AADB?style=flat-square&logo=r&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/-SonyVegas-FF0000?style=flat-square&logo=sony&logoColor=white" height="25">
-<img src="https://img.shields.io/badge/-PhotoShop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" height="25">
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,py,,figma&theme=light)](https://skillicons.dev)
+</p>
 
+<p>
 
-
+[![Desing Skills](https://skillicons.dev/icons?i=html,css,ps,figma&theme=light)](https://skillicons.dev)
 </p>
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" height="25"> My Github Stats</h2>
